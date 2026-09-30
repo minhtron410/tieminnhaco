@@ -10,13 +10,13 @@ const NFC_DATA = {
     },
 
     "002": {
-        name: "Khách hàng 002",
+        name: "Lý Thị Vân",
         description: "Danh thiếp điện tử",
-        avatar: "avatar/default.jpg",
-        facebook: "",
-        tiktok: "",
-        zalo: "",
-        phone: ""
+        avatar: "avatar/002.jpg",
+        facebook: "https://www.facebook.com/van.van.373943",
+        tiktok: "https://www.tiktok.com/@tiemdecornhaco",
+        zalo: "https://zalo.me/0865245194",
+        phone: "0865245194"
     },
 
     "003": {
