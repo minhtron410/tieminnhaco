@@ -9,7 +9,7 @@ const NFC_DATA = {
         phone: "0382474883"
     },
 
-    "002": {
+    "ly-thi-van": {
         name: "Lý Thị Vân",
         description: "Danh thiếp điện tử",
         avatar: "avatar/002.jpg",
