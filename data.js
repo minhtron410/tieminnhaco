@@ -14,7 +14,7 @@ const NFC_DATA = {
         name: "Lý Thị Vân",
         description: "Danh thiếp điện tử",
         avatar: "avatar/002.jpg",
-        facebook: "https://www.facebook.com/van.van.37943",
+        facebook: "https://www.facebook.com/share/1D74L6iNNg/",
         tiktok: "https://www.tiktok.com/@tiemdecornhaco",
         zalo: "https://zalo.me/0865245194",
         phone: "0865245194"
