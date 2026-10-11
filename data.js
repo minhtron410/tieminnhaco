@@ -20,14 +20,14 @@ const NFC_DATA = {
         phone: "0865245194"
     },
 
-    "003": {
-        name: "Khách hàng 003",
+    "thu-huong": {
+        name: "Thu Hương",
         description: "Danh thiếp điện tử",
-        avatar: "avatar/default.jpg",
-        facebook: "",
-        tiktok: "",
-        zalo: "",
-        phone: ""
+        avatar: "avatar/003.jpg",
+        facebook: "https://www.facebook.com/share/1CdRDZvQjo/?mibextid=wwXIfr",
+        tiktok: "https://www.tiktok.com/@hogw_un?_r=1&_t=ZS-9ASIZKJVIDi",
+        zalo: "https://zalo.me/0327284483",
+        phone: "327284483"
     }
 
 };
