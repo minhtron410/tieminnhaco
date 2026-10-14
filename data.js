@@ -34,7 +34,7 @@ const NFC_DATA = {
         description: "Danh thiếp điện tử",
         avatar: "avatar/004.jpg",
         facebook: "https://www.facebook.com/share/1MwYJMoZ4i/",
-        tiktok: "tiktok.com/@kindc12",
+        tiktok: "https://www.tiktok.com/@kindc12",
         zalo: "https://zalo.me/0375321405",
         phone: "0375321405"
     }
