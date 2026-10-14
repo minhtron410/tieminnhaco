@@ -28,6 +28,16 @@ const NFC_DATA = {
         tiktok: "https://www.tiktok.com/@hogw_un?_r=1&_t=ZS-9ASIZKJVIDi",
         zalo: "https://zalo.me/0327284483",
         phone: "327284483"
+    },
+    "do-kien": {
+        name: "Đỗ Kiên",
+        description: "Danh thiếp điện tử",
+        avatar: "avatar/004.jpg",
+        facebook: "https://www.facebook.com/share/1MwYJMoZ4i/",
+        tiktok: "tiktok.com/@kindc12",
+        zalo: "https://zalo.me/0375321405",
+        phone: "0375321405"
     }
+
 
 };
